@@ -1,7 +1,7 @@
 {
   "name": "Fit-to-Scrape",
   "version": "1.0.0",
-  "description": "",
+  "description": "create a web app that lets users view and leave comments on the latest news",
   "main": "server.js",
   "dependencies": {
     "axios": "^0.19.0",
@@ -18,5 +18,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaidfadel89/Fit-to-Scrape.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zaidfadel89/Fit-to-Scrape/issues"
+  },
+  "homepage": "https://github.com/zaidfadel89/Fit-to-Scrape#readme"
 }
